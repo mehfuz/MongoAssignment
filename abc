@@ -1,0 +1,19 @@
+mode: set
+github.com/custom/mongops/Dbobject.go:19.59,21.16 2 1
+github.com/custom/mongops/Dbobject.go:25.2,25.12 1 1
+github.com/custom/mongops/Dbobject.go:21.16,24.3 2 0
+github.com/custom/mongops/Dbobject.go:29.81,31.16 2 0
+github.com/custom/mongops/Dbobject.go:34.2,34.23 1 0
+github.com/custom/mongops/Dbobject.go:31.16,33.3 1 0
+github.com/custom/mongops/Dbobject.go:38.59,40.16 2 0
+github.com/custom/mongops/Dbobject.go:43.2,43.12 1 0
+github.com/custom/mongops/Dbobject.go:40.16,42.3 1 0
+github.com/custom/mongops/Dbobject.go:47.109,49.16 2 0
+github.com/custom/mongops/Dbobject.go:53.2,53.20 1 0
+github.com/custom/mongops/Dbobject.go:49.16,52.3 2 0
+github.com/custom/mongops/Dbobject.go:57.78,59.16 2 0
+github.com/custom/mongops/Dbobject.go:62.2,62.12 1 0
+github.com/custom/mongops/Dbobject.go:59.16,61.3 1 0
+github.com/custom/mongops/Service.go:17.97,19.16 2 0
+github.com/custom/mongops/Service.go:22.2,22.48 1 0
+github.com/custom/mongops/Service.go:19.16,21.3 1 0
